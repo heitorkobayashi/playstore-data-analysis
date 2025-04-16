@@ -1,12 +1,12 @@
-# **Sprint 3: Desafio**
+# **playstore-data-analysis**
 
 ## **1. Objetivos**
 
-Este desafio teve como objetivo ler o arquivo de estatísticas da _Play Store_, o [`googleplaystore.csv`](https://github.com/heitorkobayashi/PB-HEITOR-KOBAYASHI/blob/main/Sprint%203/desafio/entregaveis/googleplaystore.csv), processar e gerar os gráficos de análise solicitados através do Jupyter.  
+Este projeto teve como objetivo ler o arquivo de estatísticas da _Play Store_, o [`googleplaystore.csv`](https://github.com/heitorkobayashi/PB-HEITOR-KOBAYASHI/blob/main/Sprint%203/desafio/entregaveis/googleplaystore.csv), processar e gerar os gráficos de análise solicitados através do Jupyter.  
 
 ## **2. Preparação**
 
-Para a resolução do desafio, foi necessário a preparação do ambiente. Optei por utilizar o Jupyter dentro do VS Code por estar familiarizado com o editor. Acesse o código [clicando aqui](https://github.com/heitorkobayashi/PB-HEITOR-KOBAYASHI/blob/main/Sprint%203/desafio/entregaveis/desafio.ipynb).
+Para a resolução do projeto, foi necessário a preparação do ambiente. Optei por utilizar o Jupyter dentro do VS Code por estar familiarizado com o editor. Acesse o código [clicando aqui](https://github.com/heitorkobayashi/PB-HEITOR-KOBAYASHI/blob/main/Sprint%203/desafio/entregaveis/desafio.ipynb).
 
 ## **3. Desenvolvimento**
 
